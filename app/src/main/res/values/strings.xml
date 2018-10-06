@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Data Storage</string>
+    <string name="info_text">Text file Location /storage/emulated/0/SDL.txt</string>
+</resources>
